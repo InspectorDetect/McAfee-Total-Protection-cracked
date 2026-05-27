@@ -32,4 +32,4 @@ mcafee, mcafee-total, antivirus, mcafee-2026, mcafee-crack, security-suite
 
 Copyright (c) 2026 Contributors. MIT License.
 
-Provided AS IS without warranty. Use at your own risk.       
+Provided AS IS without warranty. Use at your own risk.        
